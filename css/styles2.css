@@ -1,0 +1,7 @@
+.wow:first-child {
+    visibility: hidden;
+}
+
+.home .wow h1::data-wow-delay{
+    animation-delay: 3s;
+}
